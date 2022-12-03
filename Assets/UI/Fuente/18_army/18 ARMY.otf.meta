@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 72036459561cde14f8dad73cde73fa4d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - 18 ARMY
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a5aa81c565d9252459059a1802bed027, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

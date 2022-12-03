@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 116f27f5e8dc3c74eabdf62eb1a439d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - panel: {instanceID: 0}
+  - agarro: {instanceID: 0}
+  - mana: {instanceID: 0}
+  - jik: {fileID: 11400000, guid: 9e7cfcab58a631c49abef35d90ba72b7, type: 2}
+  - Goo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
